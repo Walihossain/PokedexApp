@@ -1,0 +1,28 @@
+h1 {
+    /* margin: -15px 0; */
+    letter-spacing: 2px;
+    font-family: 'Saira Stencil One', cursive;
+    text-transform: uppercase;
+    font-size: 6vw;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+
+.Gen1 {
+    color: #ee5253;
+}
+.Gen2 {
+    color: #0abde3;
+}.Gen3 {
+    color: #10ac84;
+}.Gen4 {
+    color: #ff9f43;
+}.Gen5 {
+    color: #f368e0;
+}.Gen6 {
+    color:  #5f27cd;
+}.Gen7 {
+    color:  #8395a7;
+}
