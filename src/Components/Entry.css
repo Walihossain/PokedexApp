@@ -5,27 +5,27 @@
   margin-top: 7vh;
   min-height: 95%;
   transition-duration: 0.75s;
-    filter: brightness(95%)
+  filter: brightness(95%);
   /* line-height: 24px; */
 }
 
-.my-container:hover{
+.my-container:hover {
   box-shadow: 9px 9px 20px hsl(0, 15%, 65%);
   transform: scale(1.05);
   transition-duration: 0.5s;
-  filter:  saturate(115%)
+  filter: saturate(115%);
 }
 
-.card { 
+.card {
   border: none !important;
 }
 
-.border-Top{
-  border-top:7px solid hsl(0,95%,40%);
+.border-Top {
+  border-top: 7px solid hsl(0, 95%, 40%);
   border-radius: 6px;
 }
-.border-Top2{
-  border-top:7px solid hsl(10,65%,40%);
+.border-Top2 {
+  border-top: 7px solid hsl(10, 65%, 40%);
   border-radius: 6px;
 }
 
@@ -33,13 +33,11 @@
   width: 50%;
   height: auto;
   transition-duration: 1s;
-  
 }
 
 .portrait:hover {
   transform: scale(1.1);
   transition-duration: 2s;
-
 }
 
 @keyframes shake {
@@ -126,7 +124,7 @@
   font-family: "Saira Stencil One", cursive;
   text-transform: capitalize;
   background: hsl(0, 95%, 92%);
-  color:  hsl(4, 95%, 30%);
+  color: hsl(4, 95%, 30%);
   font-size: 3rem;
   letter-spacing: 4px;
   text-shadow: 2px 2px 2px black;
@@ -176,7 +174,7 @@
 .types {
   display: inline-flex;
   justify-content: center;
-  font-size:1.2em ;
+  font-size: 1.2em;
   text-transform: uppercase;
   background: hsl(0, 95%, 94%);
   color: white;
@@ -186,7 +184,7 @@
 
 .type12 {
   padding: 2%;
-  max-width: 50%;
+  max-width: 75%;
   border-radius: 10px;
   margin: 0 5px;
 }
@@ -199,10 +197,10 @@
     "Lucida Sans", Arial, sans-serif;
 }
 
-.id{
+.id {
   font-size: 1rem;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-  "Lucida Sans", Arial, sans-serif;
+    "Lucida Sans", Arial, sans-serif;
   letter-spacing: 0.2px;
   margin-bottom: -1px;
 }
@@ -218,15 +216,14 @@
 .moreStats {
   padding: 10px;
   /* background: rgba(142, 68, 173, 0.4); */
-  background: hsla(0, 95%, 80%,0.3);
+  background: hsla(0, 95%, 80%, 0.3);
   border-radius: 10px;
-;
   margin: 0 20px;
 }
 
 .val {
   display: inline;
-  color:  hsl(0,95%,30%);
+  color: hsl(0, 95%, 30%);
   opacity: 1;
   padding: 10px;
   font-size: 18px;
@@ -234,7 +231,7 @@
 }
 
 .val:hover {
-  color: hsl(180, 95%, 30%)
+  color: hsl(180, 95%, 30%);
 }
 
 .card {
