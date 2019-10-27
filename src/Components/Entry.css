@@ -112,6 +112,7 @@
 }
 
 .flavor-text {
+  min-height: 100%;
   font-size: 1.1em;
   background: hsl(0, 95%, 92%);
   padding: 5%;
@@ -184,7 +185,7 @@
 
 .type12 {
   padding: 2%;
-  max-width: 75%;
+  max-width: 85%;
   border-radius: 10px;
   margin: 0 5px;
 }
