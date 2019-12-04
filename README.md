@@ -7,9 +7,9 @@ https://pokedex91.herokuapp.com/
 
 ## Features
 
-Styling with Bootstrap4
-React front end
-RESTful Api: https://pokeapi.co/
+- Styling with Bootstrap4
+- React front end
+- RESTful Api: https://pokeapi.co/
 
 ## Local Build
 
